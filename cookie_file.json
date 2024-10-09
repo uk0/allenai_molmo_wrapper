@@ -1,0 +1,88 @@
+[
+  {
+    "domain": "molmo.allenai.org",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Host-authjs.csrf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "b1b1b1b1-1b1b-1b1b-1b1b-1b1b1b1b1b1b"
+  },
+  {
+    "domain": "molmo.allenai.org",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "SL_G_WPT_TO",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "zh-CN"
+  },
+  {
+    "domain": "molmo.allenai.org",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "text.............",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "1"
+  },
+  {
+    "domain": "molmo.allenai.org",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "text.............",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "1"
+  },
+  {
+    "domain": "molmo.allenai.org",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-authjs.callback-url",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "https%3A%2F%2Fmolmo.allenai.org%2F"
+  },
+  {
+    "domain": "molmo.allenai.org",
+    "expirationDate": 100,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "playbackRate",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1"
+  },
+  {
+    "domain": "molmo.allenai.org",
+    "expirationDate": 1000,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-authjs.session-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "token...."
+  }
+]
